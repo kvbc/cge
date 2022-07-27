@@ -1,4 +1,4 @@
 # cge
 Windows CMD rendering engine (in-progress)
 
-![](gif/preview.gif)
+![](https://github.com/kvbc/kvbc/blob/main/gif/cge.gif?raw=true)
